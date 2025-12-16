@@ -81,15 +81,15 @@ With this, the data setup for the simulation should be complete
 
 After completing the process of generation simulation data in the above section, there are only a few more steps to run a simulation:
 
-1. Generate shift information with cell inside `Simulation_v2.ipynb`
-  - This makes use of the `utils/shift_generation_{year}.py` files
+1. Generate shift information with the cell inside `Simulation_v2.ipynb`
+    - This makes use of the `utils/shift_generation_{year}.py` files
 2. Add and set the configuration in `test_config.yaml`
-  - This should be done in the same folder the shift information was generated into
-  - Examples can be found in included test folders, altough they do not include the large shift information files
+    - This should be done in the same folder the shift information was generated into
+    - Examples can be found in included test folders, altough they do not include the large shift information files
 3. Run simulation file
-  - Command in anaconda prompt: `python simulation_v5.py {test_folder}`
-  - All configuration is pulled from the yaml file inside the folder
-  - Multiple simulations can be run simultaneous, however, their constant event logging can quickly overload memory, especially if taxis constantly go to low range. 
+    - Command in anaconda prompt: `python simulation_v5.py {test_folder}`
+    - All configuration is pulled from the yaml file inside the folder
+    - Multiple simulations can be run simultaneous, however, their constant event logging can quickly overload memory, especially if taxis constantly go to low range. 
 
 
 
