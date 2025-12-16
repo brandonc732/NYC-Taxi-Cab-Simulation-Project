@@ -89,7 +89,7 @@ After completing the process of generation simulation data in the above section,
 3. Run simulation file
     - Command in anaconda prompt: `python simulation_v5.py {test_folder}`
     - All configuration is pulled from the yaml file inside the folder
-    - Multiple simulations can be run simultaneous, however, their constant event logging can quickly overload memory, especially if taxis constantly go to low range. 
+    - Multiple simulations can be run simultaneously, however, their constant event logging can quickly overload memory, especially if taxis constantly go to low range. 
 
 
 
