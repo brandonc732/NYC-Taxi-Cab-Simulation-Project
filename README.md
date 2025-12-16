@@ -2,6 +2,7 @@
 
 This repository provides the code used in the testing for my CS5834 final report on simulating the NYC yellow taxi fleet to analyze electrification feasibility.
 
+<br>
 
 ## Key files
 
@@ -18,7 +19,7 @@ Shift generation is completed in `Simulation_v2.ipynb` with functions from the `
 Initial simulation development can be followed in the `Simulation_v1.ipynb` notebook while previous versions can be found in `_previous_sim_versions`
 
 
-
+<br>
 
 
 ## Start up overview
