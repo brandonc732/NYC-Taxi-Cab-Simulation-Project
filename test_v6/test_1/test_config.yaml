@@ -1,0 +1,20 @@
+cab_array_cleaning_interval: 8_000
+
+taxi_range: 150
+low_range_threshold: 30
+
+connections_threshold: 365
+
+end_date: False
+
+backlog_waiting_minutes: 10
+
+reduction_factor: 0.7
+
+
+
+# swap station info
+swap_station_locations: [237, 236, 161, 132, 138] # list of locationIDs
+recharge_hours: 4
+
+swap_station_capacity: 50

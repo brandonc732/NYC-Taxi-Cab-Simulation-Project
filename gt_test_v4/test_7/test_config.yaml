@@ -1,0 +1,10 @@
+cab_array_cleaning_interval: 8_000
+
+taxi_range: 1000
+low_range_threshold: 100
+
+connections_threshold: 1
+
+end_date: False
+
+backlog_waiting_minutes: 15

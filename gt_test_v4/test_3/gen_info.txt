@@ -1,0 +1,3 @@
+Simulation finished in 3255.71293091774 seconds.
+number of non filled rides: 3415716
+percentage: 0.9796203131228132
